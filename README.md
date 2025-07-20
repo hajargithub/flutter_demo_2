@@ -54,7 +54,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
    flutter run
    ```
 
-> 📝 Make sure to add your `.env` file with the correct `OPENWEATHER_API_KEY`.
+> 📝 Make sure to add your `.env`  file with the correct `OPENWEATHER_API_KEY`.
 
 ---
 
